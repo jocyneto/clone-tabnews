@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Dudu, você me insipira, se você gostou disso dá uma risadinha. 😎🤘</h1>
+    <h1>Dudu, você me insipira, se você gostou disso dá uma risadinha 😎🤘</h1>
   );
 }
 
