@@ -1,6 +1,9 @@
 function Home() {
   return (
-    <h1>Dudu, você me insipira, se você gostou disso dá uma risadinha 😎🤘</h1>
+    <h1>
+      Alice, você é linda, se você quiser dar um role comigo, dá uma risadinha
+      😎🤘
+    </h1>
   );
 }
 
